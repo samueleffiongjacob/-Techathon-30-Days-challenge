@@ -1,4 +1,5 @@
 <!--- about me --->
+NOTE : TO VIEW FILES PLS CLICK ON WEEKS AND THE CLICK ON DAYS
 - 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="assets\samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG <a href = "https://github.com/samueleffiongjacob"><img src="assets\samuel effiong 1.jpg" alt="samueleffiong github" style="height:15%;width: 30%"></a>
 - 🌱 A DevOps & FullStack Software Engineer ✨ Who has just finish TECHATHON Corhot_1 BACKEND ENGINEERING | Data Scientist, Analyst & Researcher ✨
 <table style="width:30%;height: 50%">
