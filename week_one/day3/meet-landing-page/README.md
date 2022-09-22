@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/samueleffiongjacob/-Techathon-30-Days-challenge/tree/master/week_one)
-- Live Site URL: [live site URL](https://github.com/samueleffiongjacob/-Techathon-30-Days-challenge/tree/master/week_one)
+- Live Site URL: [live site URL](https://effiongsamuel.github.io/TECHATHON-30-Days-challenge-WEEK-1-DAY-3-/)
 
 ## My process
 
