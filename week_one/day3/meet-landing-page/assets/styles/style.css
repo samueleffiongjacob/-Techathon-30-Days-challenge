@@ -86,10 +86,6 @@ a:not(.block_button) {
      background-color: var(--bg-button-footer);
 }
 
-a:not(.nobb) {
-    background-color: none;
-}
-
 
 a:hover:not(.block_button) {
     background-color: var(--bg-button-footer--hover);
